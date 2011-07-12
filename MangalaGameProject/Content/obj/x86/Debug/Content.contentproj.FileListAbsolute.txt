@@ -1,0 +1,2 @@
+C:\Users\Mstraker\Documents\Visual Studio 2008\Projects\MangalaGameProject\MangalaGameProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mstraker\Desktop\MangalaGameProject\MangalaGameProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
