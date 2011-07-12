@@ -14,7 +14,7 @@ namespace MangalaGameProject
 
         public Game()
         {
-            this.Window.Title = "Mangala - Türk Strateji ve Zeka Oyunu";
+            this.Window.Title = "MANGALA - Türk Strateji ve Zeka Oyunu";
             Content.RootDirectory = "Content";
 
             graphics = new GraphicsDeviceManager(this);
